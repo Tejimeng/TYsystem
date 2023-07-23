@@ -1,6 +1,6 @@
 # TYSystem
 #### 体育场馆售票在线信息管理系统
-#### 基于Vue3+element-plus+axios+swiper+express+MySQL的一个前后端分离的"乐色"项目
+#### 基于Vue3+element-plus+axios+swiper+express+MySQL
 ### 设计内容 
 ---
 ##### 设计一个体育场馆在线售票管理信息系统，该系统的用户分别是：一般用户和系统管理员。不同的用户拥有不同的权限，各自完成各自的管理功能，不同的用户看到不同的系统功能。按照要求完成所有的功能和模块。 
